@@ -44,11 +44,11 @@ The drivers percentage pie chart displays the number of drivers by city type, as
 While all of these charts are wonderful and enlightening, they all fail to incorporate an important factor in their analysis of the data presented -- time. In the final summary analysis for this project we were asked to produce a chart that looked at fare data over the first four months of 2019.
 
 ![PyBer Fare Summary](analysis/PyBer_fare_summary.png)
-In this fare summary line chart we can see weekly fare intake, grouped by city type. 
 
-
-
-
-
+In this fare summary line chart we can see weekly fare intake, grouped by city type. Here we see more of the same, without any real surprises. Weekly fare intake numbers are steadily highest in urban locations, lowest in rural locations, and follow a midrange in suburban locations.
 
 ## Summary
+Based on this evidence I would make the following three suggestions for projects to potentially expand PyBer's ridesharing platform:
+- Focus some additional market development efforts in rural communities. Recruit more drivers; increase ad-spend in those regions; drop per-mile rates for rural cities. There's a lot of growth to be had there. While it may come slow and be hard fought, PyBer might find some heavily under-served communities out beyond the suburbs.
+- Experiment with increasing per-mile fare rates in urban and suburban locations. Urban locations currently have the most rides, and small increases in fares there could really boost our bottom line.
+- Implement some weekly or special event pricing deals. The final chart demonstrates that fare intake is pretty steady, even on holidays. With some ads and deals, Pyber might increase ridership on particular days.
