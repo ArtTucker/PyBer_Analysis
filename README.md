@@ -15,7 +15,8 @@ The CSV consisting of regional market data, contained:
 - the number of drivers in each city,
 - how that city was classified (urban, suburban, or rural).
 
-Early analysis of the data focused on painting an overall picture of the service's performance. The following charts were created in this effort:
+Early analysis of the data focused on painting an overall picture of the service's performance:
+(**Note: the chart titles and axis labels may not be visible in Github's Dark Mode**)
 
 ![Average Fare vs. Total Number of Rides, by city type](analysis/Fig1.png)
 
