@@ -14,6 +14,7 @@ Early analysis of the data focused on painting an overall picture of the service
 
 ## Results
 The 
+
 (***Note: the chart titles and axis labels may not be visible in Github's Dark Mode***)
 
 ![Average Fare vs. Total Number of Rides, by city type](analysis/Fig1.png)
